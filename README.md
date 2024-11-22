@@ -1,12 +1,12 @@
 
 ```markdown
-# Browser Extension - [Your Extension Name]
+# Browser Extension - [Dpcode]
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## Overview
 
-[Your Extension Name] is a browser extension that [describe the purpose of the extension, e.g., blocks ads, enhances productivity, or customizes the browsing experience]. It is compatible with Chrome, Firefox, and Microsoft Edge.
+[Dpcode] is a browser extension that [describe the purpose of the extension, e.g., blocks ads, enhances productivity, or customizes the browsing experience]. It is compatible with Chrome, Firefox, and Microsoft Edge.
 
 ## Features
 
