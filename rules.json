@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "urlFilter": "*://*.youtube.com/*ad*",
+        "resourceTypes": ["script", "xmlhttprequest", "media", "image", "sub_frame"]
+      }
+    },
+    {
+      "id": 2,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "urlFilter": "*://*.googlevideo.com/*ad*",
+        "resourceTypes": ["media", "image", "script"]
+      }
+    },
+    {
+      "id": 3,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "urlFilter": "*://*.doubleclick.net/*",
+        "resourceTypes": ["script", "image", "xmlhttprequest", "sub_frame"]
+      }
+    },
+    {
+      "id": 4,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "urlFilter": "*://*.ytimg.com/*ad*",
+        "resourceTypes": ["image", "script"]
+      }
+    }
+  ]
+  
