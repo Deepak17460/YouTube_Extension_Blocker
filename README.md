@@ -1,5 +1,4 @@
 
-```markdown
 # Browser Extension - [Dpcode]
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
